@@ -1,0 +1,19 @@
+# Generated files may contain the user's resume.
+/output/
+/tmp/
+/private/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.bak
+*.log
+.env
+.env.*
+!.env.example
+*.ttf
+*.ttc
+*.otf
+.DS_Store
+Thumbs.db
+desktop.ini

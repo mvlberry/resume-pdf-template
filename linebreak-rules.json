@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "keep_together": ["Docker 镜像", "持续集成", "端到端交付"],
+  "units": ["毫秒", "分钟", "小时", "万条", "千条", "千家", "型号", "个月", "万元", "年", "月", "天", "秒", "次", "组", "条", "个", "家", "万", "GB", "MB", "ms", "%", "％"],
+  "opening_punctuation": "（【《「『〔〈“‘([{",
+  "closing_punctuation": "，。！？；：、）】》」』〕〉”’％%…,.;:!?)]}",
+  "width_safety_pt": 0.25,
+  "last_line_min_ratio": 0.25,
+  "last_line_min_chars": 12,
+  "previous_line_min_ratio": 0.6
+}
